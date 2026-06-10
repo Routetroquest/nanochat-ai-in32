@@ -1,4 +1,4 @@
-# 
+# Gratuit nanochat plugins. Avec mémoire contextuelle et support multilingue — optimisé pour des performances et une efficacité maximales.
 
 
 
